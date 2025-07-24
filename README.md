@@ -6,10 +6,10 @@ i am currently learning<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teju_gowda__06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejas-gowda-h-k-40a4ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
-CCNA
-WIRESHARK
-PUTTY
-ATOMETION IN PYTHAN
+CCNA<br/>
+WIRESHARK<br/>
+PUTTY<br/>
+ATOMETION IN PYTHAN<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TejasGowda2012&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TejasGowda2012&theme=dark&hide_border=false)<br/>
