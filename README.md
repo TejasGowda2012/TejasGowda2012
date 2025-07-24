@@ -6,10 +6,10 @@ i am currently learning<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teju_gowda__06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejas-gowda-h-k-40a4ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
-[!CCNA(https://img.shields.io/badge/CCNA-%23E4405F.svg?logo=CCNA&logoColor=white)]<br/>
-[!WIRESHARK (https://img.shields.io/badge/WIRESHARK-%23E4405F.svg?logo=WIRESHARK&logoColor=white)]<br/>
-[!PUTTY(https://img.shields.io/badge/PUTTY-%23E4405F.svg?logo=PUTTY&logoColor=white)]<br/>
-[!AUTOMATION IN PYTHON(https://img.shields.io/badge/AUTOMATION IN PYTHON-%23E4405F.svg?logo=AUTOMATION IN PYTHON&logoColor=white)]<br/>
+[![CCNA](https://img.shields.io/badge/CCNA-%23E4405F.svg?logo=CCNA&logoColor=white)]<br/>
+[![WIRESHARK](https://img.shields.io/badge/WIRESHARK-%23E4405F.svg?logo=WIRESHARK&logoColor=white)]<br/>
+[![PUTTY](https://img.shields.io/badge/PUTTY-%23E4405F.svg?logo=PUTTY&logoColor=white)]<br/>
+[![AUTOMATION IN PYTHON](https://img.shields.io/badge/AUTOMATION IN PYTHON-%23E4405F.svg?logo=AUTOMATION IN PYTHON&logoColor=white)]<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TejasGowda2012&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TejasGowda2012&theme=dark&hide_border=false)<br/>
